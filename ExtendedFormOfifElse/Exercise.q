@@ -1,0 +1,1 @@
+// 1. Create a dyadic function that compares the type of the first argument to a symbol, if the first argument is a symbol print the second argument as a lower case string. Otherwise return the value of the second argument as a string.
